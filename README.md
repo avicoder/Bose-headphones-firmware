@@ -2,6 +2,19 @@
 
 Use binwalk to explore more...
 
+<INDEX REVISION="01.00.00">
+  <DEVICE ID="0x4020" PRODUCTNAME="Bose QuietComfort 35 II">
+    <HARDWARE REVISION="01.00.00">
+      <RELEASE HTTPHOST="downloads.bose.com" LANGUAGES="en-us,es-mx,fr,de,zh-cn,ja,ko,it,pt-br,sv,nl,ru,pl" REVISION="4.5.2.144" URLPATH="/ced/baywolf/">
+        <IMAGE CRC="0XFFFFFFFF" FILENAME="BayWolf_4.5.2_stack_plus_app.dfu" LENGTH="1942460" NOFORCE="1" REVISION="4.5.2.144" SUBID="0" />
+        <IMAGE CRC="0XC64078AA" FILENAME="BayWolf_4.5.2_ext_signed.xuv" LENGTH="22618624" NOFORCE="0" REVISION="4.5.2.144" SUBID="1" TARGET="1" />
+        <IMAGE CRC="0X8CF951D5" FILENAME="BayWolf_4.5.2_acorn_coeffs_signed.xuv" LENGTH="32944" NOFORCE="0" REVISION="4.5.2.144" SUBID="2" TARGET="3" />
+      </RELEASE>
+    </HARDWARE>
+  </DEVICE>
+</INDEX>
+
+
 ```
 <INDEX REVISION="01.00.00">
   <DEVICE ID="0x4020" PRODUCTNAME="Bose QuietComfort 35 II">
