@@ -2,6 +2,8 @@
 
 Use binwalk to explore more...
 
+
+```
 <INDEX REVISION="01.00.00">
   <DEVICE ID="0x4020" PRODUCTNAME="Bose QuietComfort 35 II">
     <HARDWARE REVISION="01.00.00">
@@ -13,7 +15,7 @@ Use binwalk to explore more...
     </HARDWARE>
   </DEVICE>
 </INDEX>
-
+```
 
 ```
 <INDEX REVISION="01.00.00">
